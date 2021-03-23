@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "881741846538",
+    "project_id": "funprime-77b9e",
+    "storage_bucket": "funprime-77b9e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881741846538:android:a4911984b14eabb638a7f3",
+        "android_client_info": {
+          "package_name": "com.labeeb.funprimetechnology"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881741846538-j3qccetqjkt1dlvhrvg253ankas89kj5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4z4juHBIR9BrnmiLc8FdZFgQ2w_FrUZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881741846538-j3qccetqjkt1dlvhrvg253ankas89kj5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

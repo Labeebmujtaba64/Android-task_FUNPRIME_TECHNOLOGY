@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">FunPrime Technology</string>
+
+    <string name="ADMOB_ADS_UNIT_ID">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="ad_attribution">Ad</string>
+
+
+    <style name="AppTheme.AdAttribution">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:layout_gravity">left</item>
+        <item name="android:background">#ffcc66</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:text">@string/ad_attribution</item>
+        <item name="android:height">15dp</item>
+        <item name="android:width">15dp</item>
+    </style>
+
+    <style name="AppTheme">style</style>
+
+
+    <string name="Privacy_Policy">Privacy Policy</string>
+    <string name="dialog_message">Message</string>
+    <string name="alert_title">FunPrime_Alert_Dialog</string>
+    <string name="nativead_ad_unit_id">ca-app-pub-3940256099942544/2247696110</string>
+
+
+</resources>
